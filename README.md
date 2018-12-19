@@ -1,2 +1,14 @@
 # News-Category-Dataset
-This News Category Dataset consist of a category, a headline, an author, a link, a short description and a date. 
+The file contains 202,372 records. Each json record contains following attributes:
+
+category: Category article belongs to
+
+headline: Headline of the article
+
+authors: Person authored the article
+
+link: Link to the post
+
+short_description: Short description of the article
+
+date: Date the article was published
